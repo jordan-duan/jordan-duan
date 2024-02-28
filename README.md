@@ -119,8 +119,8 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jordan-duan">
 </a>
-<a href="https://github.com/Swap-Nova?tab=followers">
-	<img src="https://img.shields.io/github/followers/Swap-Nova?label=Followers&style=social" alt="GitHub Badge">
+<a href="https://github.com/jordan-duan?tab=followers">
+	<img src="https://img.shields.io/github/followers/jordan-duan?label=Followers&style=social" alt="GitHub Badge">
 </a>
 	
 </div>
