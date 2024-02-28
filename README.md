@@ -2,7 +2,7 @@
 
 - ⌛ I'm presently working on enhancing my skills as a Developer.
 - 🧩 I'm currently learning to be more proficient with front end technologies!
-- ☕ Fun Fact: I love to code while boba & listening to music 🎵 
+- ☕ Fun Fact: I love to code while sippin' boba & jamming out to music 🎵 
 - 💬 Ask me about Python, JavaScript, React, Express, Swift, C++
 - 📪 You can reach me through: jordanduan AT berkeley DOT edu
 
