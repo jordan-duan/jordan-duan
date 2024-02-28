@@ -86,8 +86,8 @@
 <h3 align="center"> 📊 GitHub Stats </h3>
 <div align="center">
 	
-<a href="https://github.com/Swap-Nova/github-readme-stats"><img alt="Swap-Nova's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swap-Nova&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/Swap-Nova/github-readme-stats"><img alt="Swap-Nova's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-Nova&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/jordan-duan/github-readme-stats"><img alt="Jordan-duan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jordan-duan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/jordan-duan/github-readme-stats"><img alt="Jordan-duan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordan-duan&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 </div>
 
@@ -99,17 +99,14 @@
 <br>
 <!-- -------------------------------------------------------------------------------------- -->
 
-[![Swap-Nova's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Swap-Nova&theme=react-dark&hide_border=true&area=true)](https://github.com/Swap-Nova/github-readme-activity-graph)
+[![Jordan-duan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jordan-duan&theme=react-dark&hide_border=true&area=true)](https://github.com/jordan-duan/github-readme-activity-graph)
 
 <br>
 <!-- -------------------------------------------------------------------------------------- -->
 
 <h3 align="left"> ♣︎ Reach Out to Me </h3>
 <div align="left">
-
-<a href="https://medium.com/@swapnilsinha81" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://hashnode.com/@SwapNova" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/swapnil-sinha-07392b1b7/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jordan-duan/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	
 </div>
 
@@ -120,7 +117,7 @@
 <div align="left">
 	
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Swap-Nova">
+    <img src="https://komarev.com/ghpvc/?username=jordan-duan">
 </a>
 <a href="https://github.com/Swap-Nova?tab=followers">
 	<img src="https://img.shields.io/github/followers/Swap-Nova?label=Followers&style=social" alt="GitHub Badge">
